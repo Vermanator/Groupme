@@ -13,7 +13,7 @@ favorites_given = {}
 favorites_received = {}
 user_favorites = {}
 user_favorites_given = {}
-for key in  obj['response']['members']:
+for key in obj['response']['members']:
     users[key['user_id']] = key['nickname']
     print(key['user_id'] + " n " + key['nickname'])
     user_id[key['user_id']] = 0
@@ -72,8 +72,8 @@ for obj in data:
             user_favorites[key['sender_id']] = {}
         size = len(key['favorited_by'])
         favorites_received[key['sender_id']] += size
-        #print(key)
-        #print(key['sender_id'])
+        # print(key)
+        # print(key['sender_id'])
         for key2 in key['favorited_by']:
             if not (key2 in favorites_received):
                 favorites_received[key2] = 0
@@ -90,24 +90,29 @@ for obj in data:
             user_favorites[key['sender_id']][key2] += 1
         user_count[key['sender_id']] += 1
 file_name = "data_" + name + ".txt"
-with open(file_name,'a') as outfile:
+with open(file_name, 'a') as outfile:
     outfile.seek(0)
     outfile.truncate()
     outfile.write("\n" + "Favortes Given" + "\n")
     for key in favorites_given:
-        outfile.write(users[key].encode('utf-8') + " " + str(favorites_given[key]) +"\n")
+        outfile.write(users[key].encode('utf-8') + " " +
+                      str(favorites_given[key]) + "\n")
     outfile.write("\n" + "Favorites Received" + "\n")
     for key in favorites_received:
-        outfile.write(users[key].encode('utf-8') + " " + str(favorites_received[key]) +"\n")
+        outfile.write(users[key].encode('utf-8') + " " +
+                      str(favorites_received[key]) + "\n")
     outfile.write("\n" + "Ratio" + "\n")
     for key in favorites_received:
         if not (user_count[key] == 0):
-            outfile.write(users[key].encode('utf-8') + " " + str(float(favorites_received[key])/float(user_count[key])) +"\n")
+            outfile.write(users[key].encode(
+                'utf-8') + " " + str(float(favorites_received[key])/float(user_count[key])) + "\n")
     outfile.write("\n" + "Messages sent" + "\n")
     for key in user_count:
-        outfile.write(users[key].encode('utf-8') + " " + str(user_count[key]) +"\n")
+        outfile.write(users[key].encode('utf-8') +
+                      " " + str(user_count[key]) + "\n")
     outfile.write("\n" + "Favorites by person" + "\n")
     for key in user_favorites:
-        outfile.write("\n" +  "USER: " + users[key].encode('utf-8') +"\n")
+        outfile.write("\n" + "USER: " + users[key].encode('utf-8') + "\n")
         for key2 in user_favorites[key]:
-            outfile.write(users[key2].encode('utf-8') + " " + str(user_favorites[key][key2]) +"\n")
+            outfile.write(users[key2].encode('utf-8') +
+                          " " + str(user_favorites[key][key2]) + "\n")
