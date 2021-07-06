@@ -29,10 +29,13 @@ for obj in data:
             users[key['sender_id']] = key['name']
         if not (key['sender_id'] in user_favorites):
             user_favorites[key['sender_id']] = {}
+        if not (key['sender_id']) in user_time_messages:
+            user_time_messages[key['sender_id']] = []
         size = len(key['favorited_by'])
         favorites_received[key['sender_id']] += size
         # print(key['text'])
-        messages.append(key['text'])
+        if key['system'] == False:
+            messages.append(key['text'])
         # print(key['sender_id'])
         for key2 in key['favorited_by']:
             if not (key2 in favorites_received):
@@ -51,7 +54,7 @@ for obj in data:
         user_count[key['sender_id']] += 1
         user_time_messages[key['sender_id']].append(key['created_at'])
 file_name = "data_" + name + ".txt"
-#print(str(messages))
+# print(str(messages))
 total = ""
 for m in messages:
     total = total + str(m)
@@ -63,39 +66,41 @@ for w in wordList:
     elif not (w.lower() in stopwords.get_words()):
         wordmap[w] = wordmap[w] + 1
 t = OrderedDict(sorted(wordmap.items(), key=lambda x: x[1], reverse=True))
-#print(t)
+# print(t)
 
 # convert list to string and generate
 wordcloud = WordCloud(width=1000, height=500).generate(total)
-# plt.figure(figsize=(15, 8))
-# plt.imshow(wordcloud)
-# plt.axis("off")
-# plt.show()
-# plt.close()
+plt.figure(figsize=(15, 8))
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.show()
+wordcloud.to_file("cloud.png")
+plt.close()
 print("done")
 with open(file_name, 'a') as outfile:
     outfile.seek(0)
     outfile.truncate()
     outfile.write("\n" + "Favortes Given" + "\n")
     for key in favorites_given:
-        outfile.write(users[key].encode('utf-8') + " " +
-                      str(favorites_given[key]).encode("utf-8") + "\n")
+        outfile.write(str(users[key].encode('utf-8') + " ".encode("utf-8") +
+                      str(favorites_given[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Favorites Received" + "\n")
     for key in favorites_received:
-        outfile.write(users[key].encode('utf-8') + " " +
-                      str(favorites_received[key]) + "\n")
+        outfile.write(str(users[key].encode('utf-8') + " ".encode("utf-8") +
+                      str(favorites_received[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Ratio" + "\n")
     for key in favorites_received:
         if not (user_count[key] == 0):
-            outfile.write(users[key].encode(
-                'utf-8') + " " + str(float(favorites_received[key])/float(user_count[key])) + "\n")
+            outfile.write(str(users[key].encode(
+                'utf-8') + " ".encode("utf-8") + str(float(favorites_received[key])/float(user_count[key])).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Messages sent" + "\n")
     for key in user_count:
-        outfile.write(users[key].encode('utf-8') +
-                      " " + str(user_count[key]) + "\n")
+        outfile.write(str(users[key].encode('utf-8') +
+                      " ".encode("utf-8") + str(user_count[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Favorites by person" + "\n")
     for key in user_favorites:
-        outfile.write("\n" + "USER: " + users[key].encode('utf-8') + "\n")
+        outfile.write(str("\n".encode("utf-8") + "USER: ".encode("utf-8") +
+                      users[key].encode('utf-8') + "\n".encode("utf-8")))
         for key2 in user_favorites[key]:
-            outfile.write(users[key2].encode('utf-8') +
-                          " " + str(user_favorites[key][key2]) + "\n")
+            outfile.write(str(users[key2].encode('utf-8') +
+                          " ".encode("utf-8") + str(user_favorites[key][key2]).encode("utf-8") + "\n".encode("utf-8")))

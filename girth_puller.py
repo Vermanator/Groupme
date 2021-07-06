@@ -7,7 +7,7 @@ def _url(path):
 
 
 def _key():
-    return '?token=38d12d705e0c0137d05b3a7df66bb9ac'
+    return '?token=M1M8YopHGQjeMCVxR77EqVWJmn5rF6isgEb4Hy1y'
 
 
 def get_groups():
@@ -19,7 +19,7 @@ def get_group():
 
 
 def _haven_id():
-    return '41005523'
+    return '59947499'
 
 
 def get_messages():

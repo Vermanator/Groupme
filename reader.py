@@ -95,24 +95,24 @@ with open(file_name, 'a') as outfile:
     outfile.truncate()
     outfile.write("\n" + "Favortes Given" + "\n")
     for key in favorites_given:
-        outfile.write(users[key].encode('utf-8') + " " +
-                      str(favorites_given[key]) + "\n")
+        outfile.write(str(users[key].encode('utf-8') + " ".encode("utf-8") +
+                      str(favorites_given[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Favorites Received" + "\n")
     for key in favorites_received:
-        outfile.write(users[key].encode('utf-8') + " " +
-                      str(favorites_received[key]) + "\n")
+        outfile.write(str(users[key].encode('utf-8') + " ".encode("utf-8") +
+                      str(favorites_received[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Ratio" + "\n")
     for key in favorites_received:
         if not (user_count[key] == 0):
-            outfile.write(users[key].encode(
-                'utf-8') + " " + str(float(favorites_received[key])/float(user_count[key])) + "\n")
+            outfile.write(str(users[key].encode(
+                'utf-8') + " ".encode("utf-8") + str(float(favorites_received[key])/float(user_count[key])).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Messages sent" + "\n")
     for key in user_count:
-        outfile.write(users[key].encode('utf-8') +
-                      " " + str(user_count[key]) + "\n")
+        outfile.write(str(users[key].encode('utf-8') +
+                      " ".encode("utf-8") + str(user_count[key]).encode("utf-8") + "\n".encode("utf-8")))
     outfile.write("\n" + "Favorites by person" + "\n")
     for key in user_favorites:
-        outfile.write("\n" + "USER: " + users[key].encode('utf-8') + "\n")
+        outfile.write(str("\n".encode("utf-8") + "USER: ".encode("utf-8") + users[key].encode('utf-8') + "\n".encode("utf-8")))
         for key2 in user_favorites[key]:
-            outfile.write(users[key2].encode('utf-8') +
-                          " " + str(user_favorites[key][key2]) + "\n")
+            outfile.write(str(users[key2].encode('utf-8') +
+                          " ".encode("utf-8") + str(user_favorites[key][key2]).encode("utf-8") + "\n".encode("utf-8")))

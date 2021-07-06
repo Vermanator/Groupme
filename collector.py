@@ -2,7 +2,7 @@ import json
 import girth_puller
 from pprint import pprint
 resp = girth_puller.get_group()
-
+groups = girth_puller.get_groups()
 obj = resp.json()
 name = obj['response']['name']
 users = {}
