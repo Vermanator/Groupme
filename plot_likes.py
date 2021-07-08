@@ -5,8 +5,11 @@ import wordcloud
 import stopwords
 import sys
 import json
+import pprint
 import collector
 import re
+
+sys.stdout.reconfigure(encoding='utf-8')
 with open('group_data.json') as f:
     data = json.load(f)
 messages = []
@@ -66,10 +69,10 @@ for w in wordList:
     elif not (w.lower() in stopwords.get_words()):
         wordmap[w] = wordmap[w] + 1
 t = OrderedDict(sorted(wordmap.items(), key=lambda x: x[1], reverse=True))
-# print(t)
-
+print(type(t))
 # convert list to string and generate
-wordcloud = WordCloud(width=1000, height=500).generate(total)
+wordcloud = WordCloud(
+    width=1000, height=500).generate_from_frequencies(wordmap)
 plt.figure(figsize=(15, 8))
 plt.imshow(wordcloud)
 plt.axis("off")
