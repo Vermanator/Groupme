@@ -1,3 +1,4 @@
+import collector
 with open(file_name,'a', encoding='utf-8') as outfile:
     outfile.seek(0)
     outfile.truncate()

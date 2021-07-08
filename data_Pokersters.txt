@@ -1,11 +1,798 @@
 
 Favortes Given
-b'Lithquack Haderach (-$46.88) 1890\n'b'Quaddy McQuadface 742\n'b'Ryan McCunney (-10.12) 121\n'b'Shawn Verma 664\n'b'Zachary Schlaich (-$11.69) 1733\n'b'Deputy Lawboy 641\n'b'Hunter Marsh($+105.28) 1385\n'b'Daniel C 81\n'b'The Dog (-$18.06) 656\n'b'Patrick Welling 1663\n'b'Aaron Israel 127\n'b'andy 229\n'b'Calvin Burns (-17.54) 107\n'b'Alec McCarren(+4k DOGE) 2\n'b'Anna Lowien 130\n'b'Matt Masison (less down [somehow, pls try guys]) 63\n'b'John (+7.53) 872\n'b'Brendan Sweeney 13\n'b'Marina Kissner 15\n'b'Emily Berry 18\n'b'Jonald 0\n'b'system 0\n'b'temp bot 0\n'b'Zo 0\n'b'calendar 0\n'b'NoName 12\n'
+Lithquack Haderach (-$49.30) 1916
+Quaddy McQuadface 749
+Ryan McCunney (-10.12) 121
+Shawn Verma 671
+Zachary Schlaich (-$11.69) 1748
+Deputy Lawboy 650
+Hunter Marsh($+105.28) 1400
+Daniel C 81
+The Dog (-$14.33) 664
+Patrick Welling 1685
+Aaron Israel 127
+andy 232
+Calvin Burns (-17.54) 107
+Alec McCarren(+4k DOGE) 2
+Anna Lowien 130
+Matt Masison (less down [somehow, pls try guys]) 68
+John (+16.19) 889
+Brendan Sweeney 13
+Marina Kissner 17
+Emily Berry 23
+Jonald 0
+system 0
+temp bot 0
+Zo 0
+calendar 0
+NoName 12
+
 Favorites Received
-b'Lithquack Haderach (-$46.88) 2702\n'b'Quaddy McQuadface 489\n'b'Ryan McCunney (-10.12) 49\n'b'Shawn Verma 291\n'b'Zachary Schlaich (-$11.69) 1131\n'b'Deputy Lawboy 619\n'b'Hunter Marsh($+105.28) 1832\n'b'Daniel C 245\n'b'The Dog (-$18.06) 1071\n'b'Patrick Welling 585\n'b'Aaron Israel 461\n'b'andy 502\n'b'Calvin Burns (-17.54) 107\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 17\n'b'Matt Masison (less down [somehow, pls try guys]) 168\n'b'John (+7.53) 344\n'b'Brendan Sweeney 12\n'b'Marina Kissner 3\n'b'Emily Berry 6\n'b'Jonald 0\n'b'system 431\n'b'calendar 83\n'b'Zo 0\n'b'temp bot 0\n'b'NoName 16\n'
+Lithquack Haderach (-$49.30) 2719
+Quaddy McQuadface 489
+Ryan McCunney (-10.12) 49
+Shawn Verma 302
+Zachary Schlaich (-$11.69) 1154
+Deputy Lawboy 619
+Hunter Marsh($+105.28) 1889
+Daniel C 245
+The Dog (-$14.33) 1083
+Patrick Welling 587
+Aaron Israel 461
+andy 513
+Calvin Burns (-17.54) 107
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 17
+Matt Masison (less down [somehow, pls try guys]) 168
+John (+16.19) 350
+Brendan Sweeney 12
+Marina Kissner 3
+Emily Berry 8
+Jonald 0
+system 431
+calendar 83
+Zo 0
+temp bot 0
+NoName 16
+
 Ratio
-b'Lithquack Haderach (-$46.88) 2.3034953111679455\n'b'Quaddy McQuadface 3.0185185185185186\n'b'Ryan McCunney (-10.12) 2.8823529411764706\n'b'Shawn Verma 1.6724137931034482\n'b'Zachary Schlaich (-$11.69) 1.5100133511348464\n'b'Deputy Lawboy 2.1950354609929077\n'b'Hunter Marsh($+105.28) 1.9551760939167555\n'b'Daniel C 4.083333333333333\n'b'The Dog (-$18.06) 2.091796875\n'b'Patrick Welling 2.1666666666666665\n'b'Aaron Israel 2.6494252873563218\n'b'andy 4.218487394957983\n'b'Calvin Burns (-17.54) 2.0576923076923075\n'b'Anna Lowien 8.5\n'b'Matt Masison (less down [somehow, pls try guys]) 2.1818181818181817\n'b'John (+7.53) 2.1366459627329193\n'b'Brendan Sweeney 4.0\n'b'Marina Kissner 3.0\n'b'Emily Berry 1.2\n'b'system 0.4100856327307326\n'b'calendar 0.5253164556962026\n'b'NoName 1.3333333333333333\n'
+Lithquack Haderach (-$49.30) 2.3042372881355933
+Quaddy McQuadface 3.0185185185185186
+Ryan McCunney (-10.12) 2.8823529411764706
+Shawn Verma 1.687150837988827
+Zachary Schlaich (-$11.69) 1.518421052631579
+Deputy Lawboy 2.187279151943463
+Hunter Marsh($+105.28) 1.9759414225941423
+Daniel C 4.083333333333333
+The Dog (-$14.33) 2.0907335907335907
+Patrick Welling 2.1580882352941178
+Aaron Israel 2.6494252873563218
+andy 4.170731707317073
+Calvin Burns (-17.54) 2.0576923076923075
+Anna Lowien 8.5
+Matt Masison (less down [somehow, pls try guys]) 2.1538461538461537
+John (+16.19) 2.121212121212121
+Brendan Sweeney 4.0
+Marina Kissner 3.0
+Emily Berry 1.3333333333333333
+system 0.4081439393939394
+calendar 0.5253164556962026
+NoName 1.3333333333333333
+
 Messages sent
-b'Lithquack Haderach (-$46.88) 1173\n'b'Quaddy McQuadface 162\n'b'Ryan McCunney (-10.12) 17\n'b'Shawn Verma 174\n'b'Zachary Schlaich (-$11.69) 749\n'b'Deputy Lawboy 282\n'b'Hunter Marsh($+105.28) 937\n'b'Daniel C 60\n'b'The Dog (-$18.06) 512\n'b'Patrick Welling 270\n'b'Aaron Israel 174\n'b'andy 119\n'b'Calvin Burns (-17.54) 52\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 2\n'b'Matt Masison (less down [somehow, pls try guys]) 77\n'b'John (+7.53) 161\n'b'Brendan Sweeney 3\n'b'Marina Kissner 1\n'b'Emily Berry 5\n'b'Jonald 0\n'b'system 1051\n'b'temp bot 0\n'b'Zo 0\n'b'calendar 158\n'b'NoName 12\n'
+Lithquack Haderach (-$49.30) 1180
+Quaddy McQuadface 162
+Ryan McCunney (-10.12) 17
+Shawn Verma 179
+Zachary Schlaich (-$11.69) 760
+Deputy Lawboy 283
+Hunter Marsh($+105.28) 956
+Daniel C 60
+The Dog (-$14.33) 518
+Patrick Welling 272
+Aaron Israel 174
+andy 123
+Calvin Burns (-17.54) 52
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 2
+Matt Masison (less down [somehow, pls try guys]) 78
+John (+16.19) 165
+Brendan Sweeney 3
+Marina Kissner 1
+Emily Berry 6
+Jonald 0
+system 1056
+temp bot 0
+Zo 0
+calendar 158
+NoName 12
+
 Favorites by person
-b'\nUSER: Lithquack Haderach (-$46.88)\n'b'Lithquack Haderach (-$46.88) 0\n'b'Quaddy McQuadface 245\n'b'Ryan McCunney (-10.12) 32\n'b'Shawn Verma 166\n'b'Zachary Schlaich (-$11.69) 528\n'b'Deputy Lawboy 200\n'b'Hunter Marsh($+105.28) 400\n'b'Daniel C 20\n'b'The Dog (-$18.06) 160\n'b'Patrick Welling 479\n'b'Aaron Israel 29\n'b'andy 64\n'b'Calvin Burns (-17.54) 27\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 30\n'b'Matt Masison (less down [somehow, pls try guys]) 25\n'b'John (+7.53) 281\n'b'Brendan Sweeney 6\n'b'Marina Kissner 2\n'b'Emily Berry 4\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'NoName 4\n'b'\nUSER: Quaddy McQuadface\n'b'Lithquack Haderach (-$46.88) 100\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 2\n'b'Shawn Verma 27\n'b'Zachary Schlaich (-$11.69) 70\n'b'Deputy Lawboy 39\n'b'Hunter Marsh($+105.28) 61\n'b'Daniel C 4\n'b'The Dog (-$18.06) 15\n'b'Patrick Welling 78\n'b'Aaron Israel 4\n'b'andy 29\n'b'Calvin Burns (-17.54) 8\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 8\n'b'Matt Masison (less down [somehow, pls try guys]) 3\n'b'John (+7.53) 39\n'b'Brendan Sweeney 0\n'b'Marina Kissner 1\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Ryan McCunney (-10.12)\n'b'Lithquack Haderach (-$46.88) 11\n'b'Quaddy McQuadface 6\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 3\n'b'Zachary Schlaich (-$11.69) 6\n'b'Deputy Lawboy 2\n'b'Hunter Marsh($+105.28) 8\n'b'Daniel C 1\n'b'The Dog (-$18.06) 4\n'b'Patrick Welling 5\n'b'Aaron Israel 0\n'b'andy 2\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 1\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Shawn Verma\n'b'Lithquack Haderach (-$46.88) 64\n'b'Quaddy McQuadface 18\n'b'Ryan McCunney (-10.12) 2\n'b'Shawn Verma 1\n'b'Zachary Schlaich (-$11.69) 49\n'b'Deputy Lawboy 12\n'b'Hunter Marsh($+105.28) 47\n'b'Daniel C 2\n'b'The Dog (-$18.06) 9\n'b'Patrick Welling 48\n'b'Aaron Israel 3\n'b'andy 11\n'b'Calvin Burns (-17.54) 4\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 6\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 13\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Zachary Schlaich (-$11.69)\n'b'Lithquack Haderach (-$46.88) 247\n'b'Quaddy McQuadface 58\n'b'Ryan McCunney (-10.12) 4\n'b'Shawn Verma 92\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 86\n'b'Hunter Marsh($+105.28) 232\n'b'Daniel C 9\n'b'The Dog (-$18.06) 70\n'b'Patrick Welling 181\n'b'Aaron Israel 13\n'b'andy 18\n'b'Calvin Burns (-17.54) 7\n'b'Alec McCarren(+4k DOGE) 1\n'b'Anna Lowien 4\n'b'Matt Masison (less down [somehow, pls try guys]) 4\n'b'John (+7.53) 99\n'b'Brendan Sweeney 0\n'b'Marina Kissner 2\n'b'Emily Berry 2\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'NoName 2\n'b'\nUSER: Deputy Lawboy\n'b'Lithquack Haderach (-$46.88) 144\n'b'Quaddy McQuadface 26\n'b'Ryan McCunney (-10.12) 7\n'b'Shawn Verma 19\n'b'Zachary Schlaich (-$11.69) 104\n'b'Deputy Lawboy 1\n'b'Hunter Marsh($+105.28) 89\n'b'Daniel C 2\n'b'The Dog (-$18.06) 49\n'b'Patrick Welling 101\n'b'Aaron Israel 5\n'b'andy 8\n'b'Calvin Burns (-17.54) 10\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 15\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 35\n'b'Brendan Sweeney 2\n'b'Marina Kissner 1\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Hunter Marsh($+105.28)\n'b'Lithquack Haderach (-$46.88) 423\n'b'Quaddy McQuadface 129\n'b'Ryan McCunney (-10.12) 20\n'b'Shawn Verma 77\n'b'Zachary Schlaich (-$11.69) 299\n'b'Deputy Lawboy 98\n'b'Hunter Marsh($+105.28) 10\n'b'Daniel C 18\n'b'The Dog (-$18.06) 149\n'b'Patrick Welling 277\n'b'Aaron Israel 21\n'b'andy 18\n'b'Calvin Burns (-17.54) 26\n'b'Alec McCarren(+4k DOGE) 1\n'b'Anna Lowien 20\n'b'Matt Masison (less down [somehow, pls try guys]) 12\n'b'John (+7.53) 214\n'b'Brendan Sweeney 1\n'b'Marina Kissner 9\n'b'Emily Berry 5\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'NoName 5\n'b'\nUSER: Daniel C\n'b'Lithquack Haderach (-$46.88) 46\n'b'Quaddy McQuadface 15\n'b'Ryan McCunney (-10.12) 18\n'b'Shawn Verma 24\n'b'Zachary Schlaich (-$11.69) 24\n'b'Deputy Lawboy 12\n'b'Hunter Marsh($+105.28) 20\n'b'Daniel C 0\n'b'The Dog (-$18.06) 18\n'b'Patrick Welling 27\n'b'Aaron Israel 12\n'b'andy 13\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 5\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 9\n'b'Brendan Sweeney 1\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: The Dog (-$18.06)\n'b'Lithquack Haderach (-$46.88) 261\n'b'Quaddy McQuadface 58\n'b'Ryan McCunney (-10.12) 12\n'b'Shawn Verma 64\n'b'Zachary Schlaich (-$11.69) 182\n'b'Deputy Lawboy 55\n'b'Hunter Marsh($+105.28) 179\n'b'Daniel C 5\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 143\n'b'Aaron Israel 21\n'b'andy 8\n'b'Calvin Burns (-17.54) 6\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 8\n'b'Matt Masison (less down [somehow, pls try guys]) 6\n'b'John (+7.53) 62\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Patrick Welling\n'b'Lithquack Haderach (-$46.88) 137\n'b'Quaddy McQuadface 33\n'b'Ryan McCunney (-10.12) 6\n'b'Shawn Verma 42\n'b'Zachary Schlaich (-$11.69) 118\n'b'Deputy Lawboy 31\n'b'Hunter Marsh($+105.28) 96\n'b'Daniel C 6\n'b'The Dog (-$18.06) 37\n'b'Patrick Welling 0\n'b'Aaron Israel 11\n'b'andy 20\n'b'Calvin Burns (-17.54) 5\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 10\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 33\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Aaron Israel\n'b'Lithquack Haderach (-$46.88) 99\n'b'Quaddy McQuadface 24\n'b'Ryan McCunney (-10.12) 5\n'b'Shawn Verma 45\n'b'Zachary Schlaich (-$11.69) 82\n'b'Deputy Lawboy 16\n'b'Hunter Marsh($+105.28) 57\n'b'Daniel C 4\n'b'The Dog (-$18.06) 50\n'b'Patrick Welling 59\n'b'Aaron Israel 0\n'b'andy 4\n'b'Calvin Burns (-17.54) 1\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 3\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 12\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: andy\n'b'Lithquack Haderach (-$46.88) 80\n'b'Quaddy McQuadface 55\n'b'Ryan McCunney (-10.12) 7\n'b'Shawn Verma 68\n'b'Zachary Schlaich (-$11.69) 70\n'b'Deputy Lawboy 21\n'b'Hunter Marsh($+105.28) 54\n'b'Daniel C 9\n'b'The Dog (-$18.06) 33\n'b'Patrick Welling 54\n'b'Aaron Israel 4\n'b'andy 2\n'b'Calvin Burns (-17.54) 3\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 14\n'b'Matt Masison (less down [somehow, pls try guys]) 3\n'b'John (+7.53) 24\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Calvin Burns (-17.54)\n'b'Lithquack Haderach (-$46.88) 17\n'b'Quaddy McQuadface 1\n'b'Ryan McCunney (-10.12) 3\n'b'Shawn Verma 9\n'b'Zachary Schlaich (-$11.69) 18\n'b'Deputy Lawboy 4\n'b'Hunter Marsh($+105.28) 23\n'b'Daniel C 0\n'b'The Dog (-$18.06) 5\n'b'Patrick Welling 19\n'b'Aaron Israel 3\n'b'andy 3\n'b'Calvin Burns (-17.54) 1\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 1\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Alec McCarren(+4k DOGE)\n'b'Lithquack Haderach (-$46.88) 0\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 0\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 0\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Anna Lowien\n'b'Lithquack Haderach (-$46.88) 2\n'b'Quaddy McQuadface 2\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 2\n'b'Zachary Schlaich (-$11.69) 2\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 2\n'b'Daniel C 0\n'b'The Dog (-$18.06) 1\n'b'Patrick Welling 2\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 2\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Matt Masison (less down [somehow, pls try guys])\n'b'Lithquack Haderach (-$46.88) 46\n'b'Quaddy McQuadface 17\n'b'Ryan McCunney (-10.12) 1\n'b'Shawn Verma 6\n'b'Zachary Schlaich (-$11.69) 17\n'b'Deputy Lawboy 6\n'b'Hunter Marsh($+105.28) 18\n'b'Daniel C 1\n'b'The Dog (-$18.06) 14\n'b'Patrick Welling 29\n'b'Aaron Israel 0\n'b'andy 4\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 1\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 7\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: John (+7.53)\n'b'Lithquack Haderach (-$46.88) 94\n'b'Quaddy McQuadface 14\n'b'Ryan McCunney (-10.12) 1\n'b'Shawn Verma 6\n'b'Zachary Schlaich (-$11.69) 70\n'b'Deputy Lawboy 18\n'b'Hunter Marsh($+105.28) 54\n'b'Daniel C 0\n'b'The Dog (-$18.06) 16\n'b'Patrick Welling 52\n'b'Aaron Israel 0\n'b'andy 5\n'b'Calvin Burns (-17.54) 4\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 3\n'b'Matt Masison (less down [somehow, pls try guys]) 4\n'b'John (+7.53) 0\n'b'Brendan Sweeney 2\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'NoName 1\n'b'\nUSER: Brendan Sweeney\n'b'Lithquack Haderach (-$46.88) 3\n'b'Quaddy McQuadface 1\n'b'Ryan McCunney (-10.12) 1\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 1\n'b'Deputy Lawboy 1\n'b'Hunter Marsh($+105.28) 1\n'b'Daniel C 0\n'b'The Dog (-$18.06) 1\n'b'Patrick Welling 1\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 2\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Marina Kissner\n'b'Lithquack Haderach (-$46.88) 1\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 1\n'b'Hunter Marsh($+105.28) 1\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 0\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Emily Berry\n'b'Lithquack Haderach (-$46.88) 1\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 1\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 1\n'b'Daniel C 0\n'b'The Dog (-$18.06) 1\n'b'Patrick Welling 2\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Jonald\n'b'Lithquack Haderach (-$46.88) 0\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 0\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 0\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: system\n'b'Lithquack Haderach (-$46.88) 83\n'b'Quaddy McQuadface 37\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 6\n'b'Zachary Schlaich (-$11.69) 83\n'b'Deputy Lawboy 35\n'b'Hunter Marsh($+105.28) 22\n'b'Daniel C 0\n'b'The Dog (-$18.06) 24\n'b'Patrick Welling 84\n'b'Aaron Israel 1\n'b'andy 18\n'b'Calvin Burns (-17.54) 3\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 3\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 30\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 1\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: temp bot\n'b'Lithquack Haderach (-$46.88) 0\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 0\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 0\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: Zo\n'b'Lithquack Haderach (-$46.88) 0\n'b'Quaddy McQuadface 0\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 0\n'b'Zachary Schlaich (-$11.69) 0\n'b'Deputy Lawboy 0\n'b'Hunter Marsh($+105.28) 0\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 0\n'b'Aaron Israel 0\n'b'andy 0\n'b'Calvin Burns (-17.54) 0\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 0\n'b'John (+7.53) 0\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: calendar\n'b'Lithquack Haderach (-$46.88) 31\n'b'Quaddy McQuadface 3\n'b'Ryan McCunney (-10.12) 0\n'b'Shawn Verma 6\n'b'Zachary Schlaich (-$11.69) 9\n'b'Deputy Lawboy 2\n'b'Hunter Marsh($+105.28) 5\n'b'Daniel C 0\n'b'The Dog (-$18.06) 0\n'b'Patrick Welling 17\n'b'Aaron Israel 0\n'b'andy 2\n'b'Calvin Burns (-17.54) 1\n'b'Alec McCarren(+4k DOGE) 0\n'b'Anna Lowien 0\n'b'Matt Masison (less down [somehow, pls try guys]) 1\n'b'John (+7.53) 6\n'b'Brendan Sweeney 0\n'b'Marina Kissner 0\n'b'Emily Berry 0\n'b'Jonald 0\n'b'system {}\n'b'temp bot {}\n'b'Zo {}\n'b'calendar {}\n'b'\nUSER: NoName\n'b'Zachary Schlaich (-$11.69) 1\n'b'Hunter Marsh($+105.28) 5\n'b'Patrick Welling 5\n'b'Calvin Burns (-17.54) 1\n'b'John (+7.53) 2\n'b'Deputy Lawboy 1\n'b'Brendan Sweeney 1\n'
+
+USER: Lithquack Haderach (-$49.30)
+Lithquack Haderach (-$49.30) 0
+Quaddy McQuadface 245
+Ryan McCunney (-10.12) 32
+Shawn Verma 168
+Zachary Schlaich (-$11.69) 531
+Deputy Lawboy 203
+Hunter Marsh($+105.28) 403
+Daniel C 20
+The Dog (-$14.33) 161
+Patrick Welling 483
+Aaron Israel 29
+andy 64
+Calvin Burns (-17.54) 27
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 30
+Matt Masison (less down [somehow, pls try guys]) 25
+John (+16.19) 282
+Brendan Sweeney 6
+Marina Kissner 2
+Emily Berry 4
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+NoName 4
+
+USER: Quaddy McQuadface
+Lithquack Haderach (-$49.30) 100
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 2
+Shawn Verma 27
+Zachary Schlaich (-$11.69) 70
+Deputy Lawboy 39
+Hunter Marsh($+105.28) 61
+Daniel C 4
+The Dog (-$14.33) 15
+Patrick Welling 78
+Aaron Israel 4
+andy 29
+Calvin Burns (-17.54) 8
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 8
+Matt Masison (less down [somehow, pls try guys]) 3
+John (+16.19) 39
+Brendan Sweeney 0
+Marina Kissner 1
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Ryan McCunney (-10.12)
+Lithquack Haderach (-$49.30) 11
+Quaddy McQuadface 6
+Ryan McCunney (-10.12) 0
+Shawn Verma 3
+Zachary Schlaich (-$11.69) 6
+Deputy Lawboy 2
+Hunter Marsh($+105.28) 8
+Daniel C 1
+The Dog (-$14.33) 4
+Patrick Welling 5
+Aaron Israel 0
+andy 2
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 1
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Shawn Verma
+Lithquack Haderach (-$49.30) 66
+Quaddy McQuadface 18
+Ryan McCunney (-10.12) 2
+Shawn Verma 1
+Zachary Schlaich (-$11.69) 50
+Deputy Lawboy 13
+Hunter Marsh($+105.28) 49
+Daniel C 2
+The Dog (-$14.33) 10
+Patrick Welling 49
+Aaron Israel 3
+andy 11
+Calvin Burns (-17.54) 4
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 6
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 15
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 2
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Zachary Schlaich (-$11.69)
+Lithquack Haderach (-$49.30) 252
+Quaddy McQuadface 59
+Ryan McCunney (-10.12) 4
+Shawn Verma 93
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 86
+Hunter Marsh($+105.28) 237
+Daniel C 9
+The Dog (-$14.33) 70
+Patrick Welling 186
+Aaron Israel 13
+andy 19
+Calvin Burns (-17.54) 7
+Alec McCarren(+4k DOGE) 1
+Anna Lowien 4
+Matt Masison (less down [somehow, pls try guys]) 4
+John (+16.19) 103
+Brendan Sweeney 0
+Marina Kissner 2
+Emily Berry 3
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+NoName 2
+
+USER: Deputy Lawboy
+Lithquack Haderach (-$49.30) 144
+Quaddy McQuadface 26
+Ryan McCunney (-10.12) 7
+Shawn Verma 19
+Zachary Schlaich (-$11.69) 104
+Deputy Lawboy 1
+Hunter Marsh($+105.28) 89
+Daniel C 2
+The Dog (-$14.33) 49
+Patrick Welling 101
+Aaron Israel 5
+andy 8
+Calvin Burns (-17.54) 10
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 15
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 35
+Brendan Sweeney 2
+Marina Kissner 1
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Hunter Marsh($+105.28)
+Lithquack Haderach (-$49.30) 435
+Quaddy McQuadface 134
+Ryan McCunney (-10.12) 20
+Shawn Verma 78
+Zachary Schlaich (-$11.69) 305
+Deputy Lawboy 100
+Hunter Marsh($+105.28) 10
+Daniel C 18
+The Dog (-$14.33) 154
+Patrick Welling 286
+Aaron Israel 21
+andy 19
+Calvin Burns (-17.54) 26
+Alec McCarren(+4k DOGE) 1
+Anna Lowien 20
+Matt Masison (less down [somehow, pls try guys]) 14
+John (+16.19) 223
+Brendan Sweeney 1
+Marina Kissner 11
+Emily Berry 8
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+NoName 5
+
+USER: Daniel C
+Lithquack Haderach (-$49.30) 46
+Quaddy McQuadface 15
+Ryan McCunney (-10.12) 18
+Shawn Verma 24
+Zachary Schlaich (-$11.69) 24
+Deputy Lawboy 12
+Hunter Marsh($+105.28) 20
+Daniel C 0
+The Dog (-$14.33) 18
+Patrick Welling 27
+Aaron Israel 12
+andy 13
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 5
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 9
+Brendan Sweeney 1
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: The Dog (-$14.33)
+Lithquack Haderach (-$49.30) 264
+Quaddy McQuadface 58
+Ryan McCunney (-10.12) 12
+Shawn Verma 65
+Zachary Schlaich (-$11.69) 184
+Deputy Lawboy 56
+Hunter Marsh($+105.28) 180
+Daniel C 5
+The Dog (-$14.33) 0
+Patrick Welling 145
+Aaron Israel 21
+andy 9
+Calvin Burns (-17.54) 6
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 8
+Matt Masison (less down [somehow, pls try guys]) 7
+John (+16.19) 62
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Patrick Welling
+Lithquack Haderach (-$49.30) 137
+Quaddy McQuadface 33
+Ryan McCunney (-10.12) 6
+Shawn Verma 42
+Zachary Schlaich (-$11.69) 118
+Deputy Lawboy 31
+Hunter Marsh($+105.28) 97
+Daniel C 6
+The Dog (-$14.33) 37
+Patrick Welling 0
+Aaron Israel 11
+andy 20
+Calvin Burns (-17.54) 5
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 10
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 34
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Aaron Israel
+Lithquack Haderach (-$49.30) 99
+Quaddy McQuadface 24
+Ryan McCunney (-10.12) 5
+Shawn Verma 45
+Zachary Schlaich (-$11.69) 82
+Deputy Lawboy 16
+Hunter Marsh($+105.28) 57
+Daniel C 4
+The Dog (-$14.33) 50
+Patrick Welling 59
+Aaron Israel 0
+andy 4
+Calvin Burns (-17.54) 1
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 3
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 12
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: andy
+Lithquack Haderach (-$49.30) 82
+Quaddy McQuadface 56
+Ryan McCunney (-10.12) 7
+Shawn Verma 70
+Zachary Schlaich (-$11.69) 71
+Deputy Lawboy 22
+Hunter Marsh($+105.28) 54
+Daniel C 9
+The Dog (-$14.33) 34
+Patrick Welling 55
+Aaron Israel 4
+andy 2
+Calvin Burns (-17.54) 3
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 14
+Matt Masison (less down [somehow, pls try guys]) 5
+John (+16.19) 24
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Calvin Burns (-17.54)
+Lithquack Haderach (-$49.30) 17
+Quaddy McQuadface 1
+Ryan McCunney (-10.12) 3
+Shawn Verma 9
+Zachary Schlaich (-$11.69) 18
+Deputy Lawboy 4
+Hunter Marsh($+105.28) 23
+Daniel C 0
+The Dog (-$14.33) 5
+Patrick Welling 19
+Aaron Israel 3
+andy 3
+Calvin Burns (-17.54) 1
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 1
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Alec McCarren(+4k DOGE)
+Lithquack Haderach (-$49.30) 0
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 0
+Hunter Marsh($+105.28) 0
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 0
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Anna Lowien
+Lithquack Haderach (-$49.30) 2
+Quaddy McQuadface 2
+Ryan McCunney (-10.12) 0
+Shawn Verma 2
+Zachary Schlaich (-$11.69) 2
+Deputy Lawboy 0
+Hunter Marsh($+105.28) 2
+Daniel C 0
+The Dog (-$14.33) 1
+Patrick Welling 2
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 2
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Matt Masison (less down [somehow, pls try guys])
+Lithquack Haderach (-$49.30) 46
+Quaddy McQuadface 17
+Ryan McCunney (-10.12) 1
+Shawn Verma 6
+Zachary Schlaich (-$11.69) 17
+Deputy Lawboy 6
+Hunter Marsh($+105.28) 18
+Daniel C 1
+The Dog (-$14.33) 14
+Patrick Welling 29
+Aaron Israel 0
+andy 4
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 1
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 7
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: John (+16.19)
+Lithquack Haderach (-$49.30) 96
+Quaddy McQuadface 14
+Ryan McCunney (-10.12) 1
+Shawn Verma 6
+Zachary Schlaich (-$11.69) 71
+Deputy Lawboy 18
+Hunter Marsh($+105.28) 57
+Daniel C 0
+The Dog (-$14.33) 16
+Patrick Welling 52
+Aaron Israel 0
+andy 5
+Calvin Burns (-17.54) 4
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 3
+Matt Masison (less down [somehow, pls try guys]) 4
+John (+16.19) 0
+Brendan Sweeney 2
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+NoName 1
+
+USER: Brendan Sweeney
+Lithquack Haderach (-$49.30) 3
+Quaddy McQuadface 1
+Ryan McCunney (-10.12) 1
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 1
+Deputy Lawboy 1
+Hunter Marsh($+105.28) 1
+Daniel C 0
+The Dog (-$14.33) 1
+Patrick Welling 1
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 2
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Marina Kissner
+Lithquack Haderach (-$49.30) 1
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 1
+Hunter Marsh($+105.28) 1
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 0
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Emily Berry
+Lithquack Haderach (-$49.30) 1
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 1
+Zachary Schlaich (-$11.69) 1
+Deputy Lawboy 1
+Hunter Marsh($+105.28) 1
+Daniel C 0
+The Dog (-$14.33) 1
+Patrick Welling 2
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Jonald
+Lithquack Haderach (-$49.30) 0
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 0
+Hunter Marsh($+105.28) 0
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 0
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: system
+Lithquack Haderach (-$49.30) 83
+Quaddy McQuadface 37
+Ryan McCunney (-10.12) 0
+Shawn Verma 6
+Zachary Schlaich (-$11.69) 83
+Deputy Lawboy 35
+Hunter Marsh($+105.28) 22
+Daniel C 0
+The Dog (-$14.33) 24
+Patrick Welling 84
+Aaron Israel 1
+andy 18
+Calvin Burns (-17.54) 3
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 3
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 30
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 1
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: temp bot
+Lithquack Haderach (-$49.30) 0
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 0
+Hunter Marsh($+105.28) 0
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 0
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: Zo
+Lithquack Haderach (-$49.30) 0
+Quaddy McQuadface 0
+Ryan McCunney (-10.12) 0
+Shawn Verma 0
+Zachary Schlaich (-$11.69) 0
+Deputy Lawboy 0
+Hunter Marsh($+105.28) 0
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 0
+Aaron Israel 0
+andy 0
+Calvin Burns (-17.54) 0
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 0
+John (+16.19) 0
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: calendar
+Lithquack Haderach (-$49.30) 31
+Quaddy McQuadface 3
+Ryan McCunney (-10.12) 0
+Shawn Verma 6
+Zachary Schlaich (-$11.69) 9
+Deputy Lawboy 2
+Hunter Marsh($+105.28) 5
+Daniel C 0
+The Dog (-$14.33) 0
+Patrick Welling 17
+Aaron Israel 0
+andy 2
+Calvin Burns (-17.54) 1
+Alec McCarren(+4k DOGE) 0
+Anna Lowien 0
+Matt Masison (less down [somehow, pls try guys]) 1
+John (+16.19) 6
+Brendan Sweeney 0
+Marina Kissner 0
+Emily Berry 0
+Jonald 0
+system {}
+temp bot {}
+Zo {}
+calendar {}
+
+USER: NoName
+Zachary Schlaich (-$11.69) 1
+Hunter Marsh($+105.28) 5
+Patrick Welling 5
+Calvin Burns (-17.54) 1
+John (+16.19) 2
+Deputy Lawboy 1
+Brendan Sweeney 1
