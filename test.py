@@ -11,6 +11,8 @@ user_favorites = collector.get_user_fav()
 user_time_messages = collector.get_user_time()
 name = collector.get_name()
 sys.stdout.reconfigure(encoding='utf-8')
-
+new_user_times = {}
 with open("times.txt", "w") as f:
-    f.write(str(user_time_messages))
+    for user_id in user_time_messages:
+        new_user_times[users[user_id]] = user_time_messages[user_id]
+    f.write(str(new_user_times))
