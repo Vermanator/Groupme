@@ -51,6 +51,7 @@ def collect_group_messages_to_file(groupID):
     while resp1.status_code == 200:
         messages.append(resp1.json())
         obj = resp1.json()
+        print("A")
         resp1 = get_before_messages(
             obj['response']['messages'][-1]['id'], groupID)
 

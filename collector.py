@@ -112,20 +112,34 @@ for obj in data:
         user_count[key['sender_id']] += 1
         user_time_messages[key['sender_id']].append(key['created_at'])
 
+
 def get_messages():
     return messages
+
+
 def get_fav_rec():
     return favorites_received
+
+
 def get_fav_giv():
     return favorites_given
+
+
 def get_user_count():
     return user_count
+
+
 def get_users():
     return users
+
+
 def get_user_fav():
     return user_favorites
+
+
 def get_user_time():
     return user_time_messages
+
+
 def get_name():
     return name
-

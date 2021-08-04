@@ -4,4 +4,4 @@ messages per time of day/week/month/year
 leaderboard posting once a week/month
     most messages  
 
-multiple group support
+multiple group support  
