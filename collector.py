@@ -2,9 +2,14 @@ import json
 import girth_puller
 import sys
 from pprint import pprint
+
+class GroupData:
+
+    def __init__(self, name):  
+        self.name = name  
 GROUP = 'Pokersters'
 resp = girth_puller.get_group(GROUP)
-# girth_puller.collect_group_messages_to_file(girth_puller.get_group_id(GROUP))
+girth_puller.collect_group_messages_to_file(girth_puller.get_group_id(GROUP))
 obj = resp.json()
 name = obj['response']['name']
 users = {}
