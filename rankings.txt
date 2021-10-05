@@ -1,0 +1,61 @@
+20065679 n Rick Mikulis
+45617020 n Hunter Marsh
+32084435 n Trolley
+21579656 n Jack C
+30072237 n Che Guevara
+29410617 n Zany Zebras Head Coach
+23839465 n Ben Reichard
+41147401 n Dan Laffin
+30474020 n Matthew Masison
+31016506 n Patrick Welling
+23163301 n Aaron Israel
+30295737 n Andrew Tran
+hi
+-------------------------------------------
+| Verma's Efficieny Index Week 1 2021-09-26
+| 1.Aaron Israel                                  4.00 % |
+| 2.Andrew Tran                                   2.54 % |
+| 3.Ben Reichard                                  2.41 % |
+| 4.Dan Laffin                                    1.97 % |
+| 5.Jack C                                        1.69 % |
+| 6.Trolley                                       1.53 % |
+| 7.Rick Mikulis                                  1.44 % |
+| 8.Hunter Marsh                                  1.34 % |
+| 9.Che Guevara                                   1.32 % |
+| 10.Matthew Masison                              1.08 % |
+| 11.Zany Zebras Head Coach                       0.95 % |
+| 12.Patrick Welling                              0.80 % |
+| 13.system                                       0.00 % |
+-------------------------------------------
+-------------------------------------------
+| Verma's Efficieny Index Week 2 2021-09-19
+| 1.Andrew Tran                                   2.54 % |
+| 2.Ben Reichard                                  2.48 % |
+| 3.Dan Laffin                                    1.84 % |
+| 4.Jack C                                        1.53 % |
+| 5.Aaron Israel                                  1.50 % |
+| 6.Trolley                                       1.44 % |
+| 7.Hunter Marsh                                  1.37 % |
+| 8.Rick Mikulis                                  1.35 % |
+| 9.Che Guevara                                   1.29 % |
+| 10.Matthew Masison                              1.23 % |
+| 11.Zany Zebras Head Coach                       0.98 % |
+| 12.Patrick Welling                              0.92 % |
+| 13.system                                       0.05 % |
+-------------------------------------------
+-------------------------------------------
+| Verma's Efficieny Index Week 3 2021-09-12
+| 1.Andrew Tran                                   2.55 % |
+| 2.Ben Reichard                                  2.32 % |
+| 3.Dan Laffin                                    1.79 % |
+| 4.Aaron Israel                                  1.48 % |
+| 5.Jack C                                        1.45 % |
+| 6.Trolley                                       1.42 % |
+| 7.Rick Mikulis                                  1.33 % |
+| 8.Hunter Marsh                                  1.28 % |
+| 9.Che Guevara                                   1.25 % |
+| 10.Matthew Masison                              1.24 % |
+| 11.Patrick Welling                              1.02 % |
+| 12.Zany Zebras Head Coach                       0.97 % |
+| 13.system                                       0.29 % |
+-------------------------------------------
