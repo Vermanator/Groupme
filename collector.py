@@ -33,7 +33,7 @@ class GroupData:
         self.user_time_messages = {}
         for key in obj['response']['members']:
             self.users[key['user_id']] = key['nickname']
-            print(key['user_id'] + " n " + key['nickname'])
+            #print(key['user_id'] + " n " + key['nickname'])
             user_id[key['user_id']] = 0
             self.user_count[key['user_id']] = 0
             self.favorites_given[key['user_id']] = 0
@@ -80,7 +80,7 @@ class GroupData:
 
         for key in self.user_favorites:
             self.user_favorites[key] = self.user_favorites_given.copy()
-        print("hi")
+        #print("hi")
         sys.stdout.reconfigure(encoding='utf-8')
         data = {}
         with open('group_data_' + self.name + '.json') as f:

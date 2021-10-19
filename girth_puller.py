@@ -36,14 +36,14 @@ def get_group(groupName):
     resp = get_groups()
     obj = resp.json()
     for group in obj['response']:
-        print(group['name'])
+        # print(group['name'])
         if groupName == group['name']:
             return requests.get(_url('/groups/' + group['group_id']))
     print("groupNotFound")
     return
 
 
-def collect_group_messages_to_file(groupID,name):
+def collect_group_messages_to_file(groupID, name):
     messages = []
     resp1 = get_messages(groupID)
     obj = resp1.json()
@@ -65,7 +65,7 @@ def _haven_id():
 
 
 def get_messages(groupID):
-    print(_url('/groups/' + groupID + 'messages'))
+    #print(_url('/groups/' + groupID + 'messages'))
     return requests.get(_url('/groups/' + groupID + '/messages'))
 
 
