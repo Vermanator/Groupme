@@ -60,14 +60,14 @@ time_to_weekday = {0: "monday", 1: "tuesday", 2: "Wednesday",
 
 start_date = datetime(2021, 9, 7)
 
-for j in range(4, 5):
+for j in range(3, 6):
     last_week_user_counts = {}
     user_week_message_count = {}
     user_week_total_likes = {}
     last_week_messages = []
     current_week_start = (start_date + timedelta(weeks=j)).timestamp()
     current_week_end = start_date.timestamp()
-    if j < 5:
+    if j < 6:
         current_week_end = (start_date + timedelta(weeks=(j+1))).timestamp()
     for event in group_data:
         if float(event['created_at']) > current_week_start and float(event['created_at']) < current_week_end:
