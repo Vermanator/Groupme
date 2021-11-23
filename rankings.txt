@@ -1,4 +1,4 @@
-{'20065679': 1058, '45617020': 545, '32084435': 678, '21579656': 226, '30072237': 245, '29410617': 1191, '23839465': 338, '41147401': 339, '30474020': 215, '31016506': 233, '23163301': 117, '30295737': 139, 'system': 108, '663430': 0, '46185459': 0, 'calendar': 3, '29656360': 1}
+{'20065679': 1184, '45617020': 625, '32084435': 734, '21579656': 259, '30072237': 280, '29410617': 1367, '23839465': 403, '41147401': 377, '30474020': 267, '31016506': 264, '23163301': 132, '30295737': 149, 'system': 113, '663430': 0, '46185459': 0, 'calendar': 3, '29656360': 1}
 ------------------------------------------------------------
 | Verma Efficieny Index Week 2 2021-09-21                   |
 |                                                           |
@@ -146,14 +146,59 @@
 ------------------------------------------------------------
 | Verma Efficieny Index Week 10 2021-11-16                  |
 |                                                           |
-| 1. Aaron Israel                       5.00  5 L 1 M       |
-| 2. Ben Reichard                       4.08  53 L 13 M     |
-| 3. Patrick Welling                    3.50  7 L 2 M       |
-| 4. Zany Zebras Head Coach             2.50  10 L 4 M      |
-| 5. Rick Mikulis                       2.46  32 L 13 M     |
-| 6. Hunter “Go Bolts” Marsh            1.50  9 L 6 M       |
-| 7. Che Guevara                        0.67  2 L 3 M       |
-| 8. Matthew Masison                    0.50  1 L 2 M       |
-| 9. system                             0.00  0 L 2 M       |
+| 1. Aaron Israel                       5.00  15 L 3 M      |
+| 2. Ben Reichard                       3.75  120 L 32 M    |
+| 3. Andrew Tran                        3.60  18 L 5 M      |
+| 4. Patrick Welling                    3.10  65 L 21 M     |
+| 5. Matthew Masison                    2.44  39 L 16 M     |
+| 6. Dan Laffin                         2.25  27 L 12 M     |
+| 7. Jack C                             1.89  36 L 19 M     |
+| 8. Rick Mikulis                       1.86  108 L 58 M    |
+| 9. Che Guevara                        1.64  18 L 11 M     |
+| 10. Zany Zebras Head Coach            1.61  122 L 76 M    |
+| 11. Hunter “Go Bolts” Marsh           1.56  64 L 41 M     |
+| 12. Trolley                           1.44  23 L 16 M     |
+| 13. system                            0.00  0 L 5 M       |
+------------------------------------------------------------
+ 
+------------------------------------------------------------
+| Verma Efficieny Index Week 11 2021-11-23                  |
+|                                                           |
+| 1. Andrew Tran                        4.25  17 L 4 M      |
+| 2. Ben Reichard                       3.67  88 L 24 M     |
+| 3. Aaron Israel                       3.33  40 L 12 M     |
+| 4. Dan Laffin                         2.77  61 L 22 M     |
+| 5. Rick Mikulis                       2.24  112 L 50 M    |
+| 6. Patrick Welling                    1.82  20 L 11 M     |
+| 7. Hunter “Go Bolts” Marsh            1.62  52 L 32 M     |
+| 8. Matthew Masison                    1.33  24 L 18 M     |
+| 9. Trolley                            1.26  44 L 35 M     |
+| 10. Che Guevara                       1.17  21 L 18 M     |
+| 11. Jack C                            1.08  14 L 13 M     |
+| 12. Zany Zebras Head Coach            0.77  54 L 70 M     |
+| 13. system                            0.00  0 L 1 M       |
+------------------------------------------------------------
+ 
+------------------------------------------------------------
+| Verma Efficieny Index Week 12 2021-11-30                  |
+|                                                           |
+| 1. Andrew Tran                        6.00  6 L 1 M       |
+| 2. Ben Reichard                       4.41  97 L 22 M     |
+| 3. Patrick Welling                    3.00  3 L 1 M       |
+| 4. Dan Laffin                         2.25  9 L 4 M       |
+| 5. Aaron Israel                       2.00  2 L 1 M       |
+| 6. Trolley                            1.80  9 L 5 M       |
+| 7. Matthew Masison                    1.55  31 L 20 M     |
+| 8. Rick Mikulis                       1.35  42 L 31 M     |
+| 9. Hunter “Go Bolts” Marsh            1.31  17 L 13 M     |
+| 10. Che Guevara                       0.44  4 L 9 M       |
+| 11. Zany Zebras Head Coach            0.38  13 L 34 M     |
+| 12. system                            0.00  0 L 1 M       |
+| 13. Jack C                            0.00  0 L 1 M       |
+------------------------------------------------------------
+ 
+------------------------------------------------------------
+| Verma Efficieny Index Week 13 2021-12-07                  |
+|                                                           |
 ------------------------------------------------------------
  
