@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 data = GroupData('Paulie’s on 4th and 14')
 #data = GroupData('Pokersters')
 messages = data.get_messages()
-data.process(False)
+data.process(True)
 print(data.user_count)
 
 favorites_received = data.get_fav_rec()
@@ -60,14 +60,14 @@ time_to_weekday = {0: "monday", 1: "tuesday", 2: "Wednesday",
 
 start_date = datetime(2021, 9, 7)
 
-for j in range(3, 6):
+for j in range(1, 10):
     last_week_user_counts = {}
     user_week_message_count = {}
     user_week_total_likes = {}
     last_week_messages = []
     current_week_start = (start_date + timedelta(weeks=j)).timestamp()
     current_week_end = start_date.timestamp()
-    if j < 6:
+    if j < 10:
         current_week_end = (start_date + timedelta(weeks=(j+1))).timestamp()
     for event in group_data:
         if float(event['created_at']) > current_week_start and float(event['created_at']) < current_week_end:
