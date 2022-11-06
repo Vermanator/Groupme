@@ -4,14 +4,14 @@ import girth_puller
 import json
 from collector import GroupData
 import sys
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import time
 from datetime import datetime, timedelta
 #messages = collector.get_messages()
 data = GroupData('Paulie’s on 4th and 14')
 #data = GroupData('Pokersters')
 messages = data.get_messages()
-data.process(True)
+data.process(False)
 print(data.user_count)
 
 favorites_received = data.get_fav_rec()
