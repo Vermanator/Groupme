@@ -8,3 +8,16 @@ need
     all data on a weekly basis with a function to give dates and return data
         from all chats?
     
+
+
+tree of all groups creations and date
+
+
+
+likes per time of day/week/month/year
+messages per time of day/week/month/year
+
+leaderboard posting once a week/month
+    most messages  
+
+multiple group support  

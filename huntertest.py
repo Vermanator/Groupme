@@ -25,7 +25,7 @@ name = data.get_name()
 sys.stdout.reconfigure(encoding='utf-8')
 new_user_times = {}
 # last_week = (datetime(2021,8,8) - timedelta(weeks = 1)).timestamp()
-
+# TRYING TO FIND HUNTER COPY PASTA
 for user_id in user_time_messages:
     new_user_times[users[user_id]] = user_time_messages[user_id]
 
