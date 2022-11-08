@@ -1,6 +1,6 @@
 from collections import OrderedDict
 
-import girth_puller
+import apiEndpoints
 import json
 from collector import GroupData
 import sys

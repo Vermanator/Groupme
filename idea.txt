@@ -1,0 +1,10 @@
+weekly scoredboard
+    most likes received
+    most likes given
+    top 5 chats
+    deadest chat
+
+need 
+    all data on a weekly basis with a function to give dates and return data
+        from all chats?
+    

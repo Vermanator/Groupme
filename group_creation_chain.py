@@ -1,9 +1,9 @@
-import girth_puller
+import apiEndpoints
 import json
 import requests
 
 
-resp = girth_puller.get_groups()
+resp = apiEndpoints.get_groups()
 obj = resp.json()
 stersGroup = []
 for group in obj['response']:

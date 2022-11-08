@@ -1,5 +1,5 @@
 import json
-import girth_puller
+import apiEndpoints
 import sys
 from pprint import pprint
 
@@ -19,9 +19,9 @@ class GroupData:
         self.group_data = []
     def process(self,pullMessages):
         GROUP = self.name
-        resp = girth_puller.get_group(GROUP)
+        resp = apiEndpoints.get_group(GROUP)
         if pullMessages:
-            girth_puller.collect_group_messages_to_file(girth_puller.get_group_id(GROUP),GROUP)
+            apiEndpoints.collect_group_messages_to_file(apiEndpoints.get_group_id(GROUP),GROUP)
         obj = resp.json()
         self.users = {}
         user_id = {}

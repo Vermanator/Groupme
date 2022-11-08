@@ -1,8 +1,8 @@
 import json
 from pprint import pprint
-import girth_puller
+import apiEndpoints
 import json
-resp = girth_puller.get_group()
+resp = apiEndpoints.get_group()
 
 obj = resp.json()
 name = obj['response']['name']
