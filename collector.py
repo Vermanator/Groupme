@@ -14,6 +14,7 @@ class GroupData:
         self.users = {}
         self.user_favorites = {}
         self.user_time_messages = {}
+        self.user_messages = {}
         self.messages = []
         self.user_favorites_given = {}
         self.group_data = []
@@ -31,6 +32,7 @@ class GroupData:
         self.user_favorites = {}
         self.user_favorites_given = {}
         self.user_time_messages = {}
+        self.user_messages = {}
         for key in obj['response']['members']:
             self.users[key['user_id']] = key['nickname']
             #print(key['user_id'] + " n " + key['nickname'])
@@ -41,6 +43,7 @@ class GroupData:
             self.user_favorites[key['user_id']] = {}
             self.user_favorites_given[key['user_id']] = 0
             self.user_time_messages[key['user_id']] = []
+            self.user_messages[key['user_id']] = []
 
 
         self.user_favorites['system'] = {}
@@ -67,6 +70,11 @@ class GroupData:
         self.user_time_messages['663430'] = []
         self.user_time_messages['46185459'] = []
         self.user_time_messages['calendar'] = []
+
+        self.user_messages['system'] = []
+        self.user_messages['663430'] = []
+        self.user_messages['46185459'] = []
+        self.user_messages['calendar'] = []
 
         self.favorites_given['system'] = 0
         self.favorites_given['663430'] = 0
@@ -99,6 +107,8 @@ class GroupData:
                     self.user_favorites[key['sender_id']] = {}
                 if not (key['sender_id']) in self.user_time_messages:
                     self.user_time_messages[key['sender_id']] = []
+                if not (key['sender_id']) in self.user_messages:
+                    self.user_messages[key['sender_id']] = []
                 size = len(key['favorited_by'])
                 self.favorites_received[key['sender_id']] += size
                 # print(key['text'])
@@ -122,6 +132,7 @@ class GroupData:
                     self.user_favorites[key['sender_id']][key2] += 1
                 self.user_count[key['sender_id']] += 1
                 self.user_time_messages[key['sender_id']].append(key['created_at'])
+                self.user_messages[key['sender_id']].append(key['text'])
 
     def get_messages(self):
         return self.messages
@@ -137,6 +148,8 @@ class GroupData:
         return self.user_favorites
     def get_user_time(self):
         return self.user_time_messages
+    def get_user_messages(self):
+        return self.user_messages
     def get_name(self):
         return self.name
     def get_raw_data(self):
