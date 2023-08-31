@@ -1,0 +1,85 @@
+0
+[<collector.GroupData object at 0x102489250>]
+<collector.GroupData object at 0x102489250>
+Paulie’s on 4th and 14
+USER TOTAL MESSAGES
+{'temp bot': 0, 'Zo': 0, 
+'NoName': 1, 'calendar': 15, 'Aaron Israel': 199, 
+'system': 427, 'Andrew Tran (*)': 436, 'Patrick Welling': 683, 
+"Let's Go Pats, Come On Pats, Let's Go Pats BABY": 946, 'Waited for 2023': 1093, 
+'Best of the Losers': 1127, '💩 King': 1197, 'Major McLaurin': 1349, 'Hunter Marsh': 1847, 
+'Dumbo The Elephant': 2046, 'Wife Guy': 3018, 'Zany Zebras General Manager': 4606}
+TOTAL MESSAGES BY GROUP
+{'Paulie’s on 4th and 14': 18563}
+GROUPS WITH ALL STERS IN IT
+Wife Guy
+Hunter Marsh
+Dumbo The Elephant
+Let's Go Pats, Come On Pats, Let's Go Pats BABY
+💩 King
+Zany Zebras General Manager
+Major McLaurin
+Waited for 2023
+Best of the Losers
+Patrick Welling
+Aaron Israel
+Andrew Tran (*)
+NoName
+above
+['Paulie’s on 4th and 14']
+USER RATIOS
+{'temp bot': 0, 'Zo': 0, 'system': 0.6206088992974239, 
+'calendar': 1.0666666666666667, '💩 King': 1.1670843776106934, 
+'Zany Zebras General Manager': 1.1873643074250977, 
+'Best of the Losers': 1.3558118899733806, 
+"Let's Go Pats, Come On Pats, Let's Go Pats BABY": 1.474630021141649, 
+'Hunter Marsh': 1.6264212236058473, 'Dumbo The Elephant': 1.7218963831867058, 
+'Patrick Welling': 1.780380673499268, 'Wife Guy': 1.8641484426772696, 
+'Waited for 2023': 2.249771271729186, 'Aaron Israel': 2.3266331658291457, 
+'Major McLaurin': 2.710896960711638, 'Andrew Tran (*)': 3.061926605504587, 'NoName': 4.0}
+LONGEST MESSAGE
+('Major McLaurin', 'My take on Washington @11:\n-Kyle Hamilton would be my favorite pick, he’s likely a top-3 talent in this draft and as close to surefire as they come. However, teams are devaluing safeties, and I can understand the rationale that we need more juice on offense rather than going defense for like the 6th draft in a row\n-Most signs have us taking a WR. Between Garrett Wilson, Jameson Williams, and Drake London, I’d trust our FO to take whichever they have the highest grade on. Would still be very happy with any of these guys\n-If CBs Stingley or Gardner are somehow still on the board, they’d also be slam dunks, and an early run on OTs/EDGE/WR could make that happen. But low likelihood\n-If we’re able to trade back, I’d be happier with that than drafting anyone above. This is a draft with more depth than top-end talent\n-We’ve been linked heavily to WR Chris Olave, but he’s seemingly in a tier below the guys above. He’d be fine if we trade back, but I’d be disappointed if we took him @ 11', ['Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant'])
+993
+SHORTEST MOST LIKED MESSAGE
+('Patrick Welling', "I'm happy to announce that all of you are invited to my wedding! Date is April 25, 2024, & save the dates will be sent out soon. Excited to celebrate with you all!", ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Aaron Israel', 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Waited for 2023', 'Hunter Marsh'])
+CONSECUTIVE MESSAGE
+('Matthew Masison', 'Y R A N K I N G A A R E B A D 4 L E A G I E E N G A G E M E N T ', 1634271038)
+ALL MOST LIKED MESSAGES
+{'20065679': 'Wife Guy', '45617020': 'Hunter Marsh', '32084435': 'Dumbo The Elephant', '21579656': "Let's Go Pats, Come On Pats, Let's Go Pats BABY", '30072237': '💩 King', '29410617': 'Zany Zebras General Manager', '23839465': 'Major McLaurin', '41147401': 'Waited for 2023', '30474020': 'Best of the Losers', '31016506': 'Patrick Welling', '23163301': 'Aaron Israel', '30295737': 'Andrew Tran (*)', 'system': 'system', '663430': 'temp bot', '46185459': 'Zo', 'calendar': 'calendar', '29656360': 'NoName'}
+10
+Patrick Welling
+10
+Patrick Welling
+10
+Waiting for 2023
+10
+hUNTER mARSH
+10
+hUNTER mARSH
+10
+Patrick Welling
+10
+Hunter The Ranker
+10
+Waiting for 2023
+10
+Hunter The Ranker
+10
+Zion Johnson’s Agent
+10
+All About Them Pats
+10
+All About Them Pats
+10
+Zany Zebras Head Coach
+10
+Aaron Israel
+[('Patrick Welling', "I'm happy to announce that all of you are invited to my wedding! Date is April 25, 2024, & save the dates will be sent out soon. Excited to celebrate with you all!", ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Aaron Israel', 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Waited for 2023', 'Hunter Marsh'], 10), ('Patrick Welling', "Meant to drop this in here earlier today, it's wedding szn", ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Dumbo The Elephant', 'Waited for 2023', 'Hunter Marsh'], 10), ('Waited for 2023', 'Before the trading block lit on fire and everything went haywire, Rick had leaped into the top three and bumped Andrew down to the orange tier. This marked only the second time one of the original "big three" had fallen out of the top three all season. Hunter, meanwhile, remained the only team with a losing record in the top six. Shawn had a neat little Lombardi trophy that for some reason was free on Canva. I write all of this in the past tense because basically none of this is accurate anymore.', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Hunter Marsh'], 10), ('Hunter Marsh', 'We’re back next week folks. Get ready ', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023'], 10), ('Hunter Marsh', 'https://drive.google.com/file/d/1a_qYNqRVvaCUwEBJjAAt6IaY76jugDcu/view?usp=drivesdk', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023'], 10), ('Patrick Welling', 'Me last year: I may have lost superstar Derrick Henry to a season-ending injury, but I just traded for Aaron Jones & Zeke. Now I can still compete for a championship!\n*both get hurt immediately*\n\nMe this year: Wow, I overcame truly atrocious draft capital and still ended up with Javonte Williams, Breece Hall, Dameon Pierce, and Mostert. I might be able to make a run!\n\nFantasy football gods:', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Dumbo The Elephant', 'Waited for 2023', 'Hunter Marsh'], 10), ('Hunter Marsh', 'https://drive.google.com/file/d/11mbTCLPQZaR-hGu1BTCh_8gZdyVuJ89H/view?usp=drivesdk\n\nSome real good reporting on the league right here', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023'], 10), ('Waited for 2023', 'I have nothing else to add', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Hunter Marsh'], 10), ('Hunter Marsh', 'https://docs.google.com/document/d/14HpNL_KeyzuCoiF9k1R8O_Py4fhtkuqwFKFab7dHY-Y/edit?usp=sharing', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023'], 10), ('Hunter Marsh', 'https://forms.gle/EpdZEurm2PMyKRUW7', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023'], 10), ('Waited for 2023', 'The Season 2, Week 1 Median Report:\nAll But Guaranteed\nShawn (Current 145.66, Projected 145.66)\nRick (Current 119.40, Projected 140.48) (Brady)\n\nPractically Guaranteed\nZach (Current 114.50, Projected 128.00) (Evans)\nMark (Current 107.72, Projected 120.39) (Sutton)\nHunter (Current 98.12, Projected 115.85) (Jeudy, TB)\n\nOn the Cusp\nMatt (Current 103.98, Projected 103.98)\nJohn (Current 88.32, Projected 102.97) (Lamb)\nAndrew (Current 96.42, Projected 102.89) (DAL)\n\nHanging in There\nDan (Current 67.40, Projected 95.35) (Schultz, Lockett, Succop)\nPatrick (Current 43.00, Projected 94.69) (Wilson, Williams, McManus, DEN)\n\nBetter Luck Next Week\nAaron (Current 63.80, Projected 77.23) (Elliott)\nBen (Current 56.36, Projected 65.34) (Godwin)', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Aaron Israel', 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Patrick Welling', 'Dumbo The Elephant', 'Hunter Marsh'], 10), ('Waited for 2023', "The. Pyramid. Is. Back. Tomorrow I'll release the orange row, and Wednesday I'll release the top 3. In subsequent weeks I'll do the same but on Tue/Wed/Thurs.", ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Aaron Israel', 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant'], 10), ('Zany Zebras General Manager', None, ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', '💩 King', 'Andrew Tran (*)', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023', 'Hunter Marsh'], 10), ('Aaron Israel', 'This restaurant has $17 bottomless mimosa/Bloody Mary/rose and is located in the lobby of my new apartment building ', ['Wife Guy', "Let's Go Pats, Come On Pats, Let's Go Pats BABY", 'Major McLaurin', 'Zany Zebras General Manager', '💩 King', 'Best of the Losers', 'Patrick Welling', 'Dumbo The Elephant', 'Waited for 2023', 'Hunter Marsh'], 10)]
+VALERIA LIKES
+BIGGEST FAN
+{'Wife Guy': ('Zany Zebras General Manager', 1148), 'Hunter Marsh': ('Wife Guy', 589), 'Dumbo The Elephant': ('Wife Guy', 779), "Let's Go Pats, Come On Pats, Let's Go Pats BABY": ('Wife Guy', 306), '💩 King': ('Wife Guy', 243), 'Zany Zebras General Manager': ('Wife Guy', 1101), 'Major McLaurin': ('Wife Guy', 697), 'Waited for 2023': ('Zany Zebras General Manager', 520), 'Best of the Losers': ('Wife Guy', 329), 'Patrick Welling': ('Zany Zebras General Manager', 263), 'Aaron Israel': ('Wife Guy', 77), 'Andrew Tran (*)': ('Zany Zebras General Manager', 258), 'system': ('Wife Guy', 68), 'temp bot': ('Wife Guy', 0), 'Zo': ('Wife Guy', 0), 'calendar': ('Wife Guy', 7), 'NoName': ('💩 King', 1)}
+MORNING BIRDS AND NIGHTOWLS
+morning
+{'Zany Zebras General Manager': 193, 'Wife Guy': 151, 'Hunter Marsh': 103, 'Waited for 2023': 76, "Let's Go Pats, Come On Pats, Let's Go Pats BABY": 26, 'Major McLaurin': 23, '💩 King': 18, 'Best of the Losers': 14, 'system': 13, 'Dumbo The Elephant': 6, 'Aaron Israel': 3, 'Andrew Tran (*)': 1, 'Patrick Welling': 0, 'temp bot': 0, 'Zo': 0, 'calendar': 0, 'NoName': 0}
+night
+{'Dumbo The Elephant': 12, 'Patrick Welling': 11, 'Wife Guy': 7, 'Zany Zebras General Manager': 7, "Let's Go Pats, Come On Pats, Let's Go Pats BABY": 5, 'Hunter Marsh': 4, 'Major McLaurin': 4, 'Best of the Losers': 2, 'Andrew Tran (*)': 2, 'Waited for 2023': 1, 'system': 1, '💩 King': 0, 'Aaron Israel': 0, 'temp bot': 0, 'Zo': 0, 'calendar': 0, 'NoName': 0}

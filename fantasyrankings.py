@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 data = GroupData('Paulie’s on 4th and 14')
 #data = GroupData('Pokersters')
 messages = data.get_messages()
-data.process(False)
+data.process(True)
 print(data.user_count)
 
 favorites_received = data.get_fav_rec()

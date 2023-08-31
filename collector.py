@@ -18,12 +18,14 @@ class GroupData:
         self.messages = []
         self.user_favorites_given = {}
         self.group_data = []
+        self.group = {}
     def process(self,pullMessages):
         GROUP = self.name
         resp = apiEndpoints.get_group(GROUP)
+        self.group = resp.json()
         if pullMessages:
             apiEndpoints.collect_group_messages_to_file(apiEndpoints.get_group_id(GROUP),GROUP)
-        obj = resp.json()
+        group = resp.json()
         self.users = {}
         user_id = {}
         self.user_count = {}
@@ -33,7 +35,7 @@ class GroupData:
         self.user_favorites_given = {}
         self.user_time_messages = {}
         self.user_messages = {}
-        for key in obj['response']['members']:
+        for key in group['response']['members']:
             self.users[key['user_id']] = key['nickname']
             #print(key['user_id'] + " n " + key['nickname'])
             user_id[key['user_id']] = 0
@@ -91,7 +93,7 @@ class GroupData:
         #print("hi")
         sys.stdout.reconfigure(encoding='utf-8')
         data = {}
-        with open('group_data_' + self.name + '.json') as f:
+        with open('./group_data/' + self.name + '.json') as f:
             data = json.load(f)
         for obj in data:
             for key in obj['response']['messages']:
@@ -132,8 +134,10 @@ class GroupData:
                     self.user_favorites[key['sender_id']][key2] += 1
                 self.user_count[key['sender_id']] += 1
                 self.user_time_messages[key['sender_id']].append(key['created_at'])
-                self.user_messages[key['sender_id']].append(key['text'])
-
+                msg_time = (key['text'],key['created_at'])
+                self.user_messages[key['sender_id']].append(msg_time)
+    def get_group(self):
+        return self.group
     def get_messages(self):
         return self.messages
     def get_fav_rec(self):
@@ -148,10 +152,28 @@ class GroupData:
         return self.user_favorites
     def get_user_time(self):
         return self.user_time_messages
-    def get_user_messages(self):
+    def get_user_messages_time(self):
         return self.user_messages
     def get_name(self):
         return self.name
     def get_raw_data(self):
         return self.group_data
+    def get_name_from_id(self,id):
+        if id in self.users.keys():
+            return self.users[id]
+        else:
+            return "Noname"
+    def get_id_from_name(self,name):
+        for id in self.users:
+            if name == self.users[id]:
+                return id
+    def get_names_from_ids(self,ids):
+        return [self.users[id] for id in ids]
+    def get_ratio(self):
+        user_ratios = {}
+        for user in self.users:
+            user_ratios[user] = self.favorites_received[user]/self.user_count[user]
+    # def initialize_dict_with_all_users(user_dict):
+    #     for user in self.users:
+    #         user_dict = 
 

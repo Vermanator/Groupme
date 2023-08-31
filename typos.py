@@ -18,18 +18,23 @@ def spell3(wl):
 data = GroupData('Paulie’s on 4th and 14')
 #data = GroupData('Pokersters')
 data.process(False)
-messages = data.get_user_messages()
+messages = data.get_user_messages_time()
 results = {}
+start_date = datetime(2022, 9, 8).timestamp()
+current_date = datetime.now().timestamp()
+# current_week_start = (start_date + timedelta(weeks=j)).timestamp()
+current_week_end = start_date.timestamp()
+
 users_messages = [(messages[msg],msg) for msg in messages]
 for um in users_messages:
     user_messages = um[0]
     user_combined_msg = ''
 
     for msg in user_messages:
-        #print(msg)
-        if msg:
+        if msg[0] and float(msg[1]) > start_date and float(msg[1]) < current_date:
             user_combined_msg = user_combined_msg + msg
     #print(user_combined_msg)
 
     results[data.users[um[1]]] = spell3(user_combined_msg)
-print(results)
+res = {key: val for key, val in sorted(results.items(), key = lambda ele: ele[1], reverse = True)}
+print(res)
