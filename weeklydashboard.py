@@ -48,14 +48,13 @@ data.process(False)
 # favorites_given = data.get_fav_giv()
 # user_count = data.get_user_count()
 users = data.get_users()
-# user_favorites = data.get_user_fav()
-#user_time_messages = data.get_user_time()
-# group_data = data.get_raw_data()
-# name = data.get_name()
+user_favorites = data.get_user_fav()
+group_data = data.get_raw_data()
+name = data.get_name()
 sys.stdout.reconfigure(encoding='utf-8')
 new_user_times = {}
 # 
-last_week = (datetime(2022,8,8) - timedelta(weeks = 1)).timestamp()
+last_week = (datetime(2022,12,12) - timedelta(weeks = 1)).timestamp()
 timezone_adjust = 14400 # 4 hours from gmt
 
 # for user_id in user_time_messages:
@@ -176,3 +175,21 @@ for uh in user_days:
 plt.legend()
 plt.show()
 print()
+
+messages = data.get_user_messages_time()
+results = {}
+start_date = datetime(2022, 9, 8).timestamp()
+current_date = datetime.now().timestamp()
+# current_week_start = (start_date + timedelta(weeks=j)).timestamp()
+current_week_end = start_date.timestamp()
+
+users_messages = [(messages[msg],msg) for msg in messages]
+for um in users_messages:
+    user_messages = um[0]
+    user_combined_msg = ''
+
+    for msg in user_messages:
+        if msg[0] and float(msg[1]) > start_date and float(msg[1]) < current_date:
+            user_combined_msg = user_combined_msg + msg
+
+

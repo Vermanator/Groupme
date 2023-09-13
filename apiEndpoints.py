@@ -1,5 +1,6 @@
 import requests
 import json
+import uuid
 
 
 def _url(path):
@@ -12,7 +13,6 @@ def _key():
 
 def get_groups():
     return requests.get(_url('/groups') + "&per_page=100")
-
 
 def get_group_names():
     names = []
@@ -57,7 +57,7 @@ def collect_group_messages_to_file(groupID, name):
         if resp1.status_code != 200:
             print (resp1.status_code)
 
-    with open('group_data_' + name + '.json', 'a') as outfile:
+    with open('./group_data/' + name + '.json', 'a') as outfile:
         outfile.seek(0)
         outfile.truncate()
         json.dump(messages, outfile)
@@ -71,6 +71,20 @@ def get_messages(groupID):
     #print(_url('/groups/' + groupID + 'messages'))
     return requests.get(_url('/groups/' + groupID + '/messages'))
 
+def post_messages(groupID,message):
+    data = {
+        "message": {
+            "source_guid": str(uuid.uuid4()),
+            "text": message
+        }
+    }
+    #print(_url('/groups/' + groupID + 'messages'))
+    r = requests.post(_url('/groups/' + groupID + '/messages'),json=data)
+    print("Status Code", r.status_code)
+    print("JSON Response ", r.json())
+    return r
 
 def get_before_messages(id, groupID):
     return requests.get(_url('/groups/' + groupID + '/messages') + '&limit=100' + '&before_id=' + id)
+
+# print(post_messages('41005523',"beep boop"))
