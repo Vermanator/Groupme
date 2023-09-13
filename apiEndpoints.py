@@ -84,4 +84,10 @@ def post_messages(groupID,message):
 def get_before_messages(id, groupID):
     return requests.get(_url('/groups/' + groupID + '/messages') + '&limit=100' + '&before_id=' + id)
 
+def get_chats():
+    return requests.get(_url('/chats'))
+
+def like_message(conversation_id,message_id):
+    return requests.post('/messages/' + conversation_id + '/' + message_id + '/like')
+
 # print(post_messages('41005523',"beep boop"))

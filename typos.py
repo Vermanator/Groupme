@@ -4,7 +4,7 @@ import apiEndpoints
 import json
 from collector import GroupData
 import sys
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import time
 from datetime import datetime, timedelta
 #messages = collector.get_messages()
@@ -21,9 +21,8 @@ data.process(False)
 messages = data.get_user_messages_time()
 results = {}
 start_date = datetime(2022, 9, 8).timestamp()
-current_date = datetime.now().timestamp()
+current_date = datetime(2023, 1, 2).timestamp()
 # current_week_start = (start_date + timedelta(weeks=j)).timestamp()
-current_week_end = start_date.timestamp()
 
 users_messages = [(messages[msg],msg) for msg in messages]
 for um in users_messages:
@@ -32,7 +31,7 @@ for um in users_messages:
 
     for msg in user_messages:
         if msg[0] and float(msg[1]) > start_date and float(msg[1]) < current_date:
-            user_combined_msg = user_combined_msg + msg
+            user_combined_msg = user_combined_msg + msg[0]
     #print(user_combined_msg)
 
     results[data.users[um[1]]] = spell3(user_combined_msg)

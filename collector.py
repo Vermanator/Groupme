@@ -12,6 +12,7 @@ class GroupData:
         self.favorites_given = {}
         self.user_count = {}
         self.users = {}
+        self.user_names = []
         self.user_favorites = {}
         self.user_time_messages = {}
         self.user_messages = {}
@@ -21,12 +22,19 @@ class GroupData:
         self.group = {}
     def process(self,pullMessages):
         GROUP = self.name
-        resp = apiEndpoints.get_group(GROUP)
-        self.group = resp.json()
+        #resp = apiEndpoints.get_group(GROUP)
+        #print(resp.json())
+        #self.group = resp.json()
+        resp = {}
+        with open('resp.json') as f:
+            resp = json.load(f)
+        self.group = resp
         if pullMessages:
             apiEndpoints.collect_group_messages_to_file(apiEndpoints.get_group_id(GROUP),GROUP)
-        group = resp.json()
+        #group = resp.json()
+        group = resp
         self.users = {}
+        self.user_names = []
         user_id = {}
         self.user_count = {}
         self.favorites_given = {}
@@ -36,7 +44,8 @@ class GroupData:
         self.user_time_messages = {}
         self.user_messages = {}
         for key in group['response']['members']:
-            self.users[key['user_id']] = key['nickname']
+            self.users[key['user_id']] = key['name']
+            self.user_names.append(key['name'])
             #print(key['user_id'] + " n " + key['nickname'])
             user_id[key['user_id']] = 0
             self.user_count[key['user_id']] = 0
@@ -148,6 +157,8 @@ class GroupData:
         return self.user_count
     def get_users(self):
         return self.users
+    def get_users_names(self):
+        return self.user_names
     def get_user_fav(self):
         return self.user_favorites
     def get_user_time(self):
