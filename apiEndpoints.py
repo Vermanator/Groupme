@@ -33,6 +33,7 @@ def get_group_id(groupName):
 
 
 def get_group(groupName):
+    print(groupName)
     resp = get_groups()
     obj = resp.json()
     for group in obj['response']:
@@ -53,6 +54,8 @@ def collect_group_messages_to_file(groupID, name):
         obj = resp1.json()
         resp1 = get_before_messages(
             obj['response']['messages'][-1]['id'], groupID)
+        if resp1.status_code != 200:
+            print (resp1.status_code)
 
     with open('group_data_' + name + '.json', 'a') as outfile:
         outfile.seek(0)

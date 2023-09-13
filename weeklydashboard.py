@@ -6,26 +6,60 @@ from collector import GroupData
 import sys
 import matplotlib.pyplot as plt
 import time
+from cycler import cycler
 from datetime import datetime, timedelta
+def merge_two_dicts(x, y):
+    yks = y.keys()
+    for k in yks:
+        if k not in x.keys():
+            x[k] = y[k]
+        else:
+            x[k] = x[k] + y[k]
+    return x
+resp = apiEndpoints.get_groups()
+obj = resp.json()
+stersGroup = []
+count = 0
+users = {}
+user_time_messages = {}
+# for group in obj['response']:
+#     if 'sters' in group['name']:
+#         count = count + 1
+#         # stersGroup.append(group['name'])
+#         data = GroupData(group['name'])
+#         data.process(False)
+#         if data.get_raw_data()[-1]['created_at'] < 1547000000:
+#             print(group['name'] + " 2018") 
+        
+#         user_time_messages = merge_two_dicts(user_time_messages,data.get_user_time() )
+# print(len(user_time_messages['30072237']))
 #messages = collector.get_messages()
+# with open('aggregate_sters.json', 'a') as outfile:
+#     outfile.seek(0)
+#     outfile.truncate()
+#     json.dump(user_time_messages, outfile)
+# data = {}
+with open('aggregate_sters.json') as f:
+    user_time_messages = json.load(f)
 data = GroupData('Acquaintancesters')
+plt.style.use('dark_background')
 data.process(False)
-favorites_received = data.get_fav_rec()
-favorites_given = data.get_fav_giv()
-user_count = data.get_user_count()
+# favorites_received = data.get_fav_rec()
+# favorites_given = data.get_fav_giv()
+# user_count = data.get_user_count()
 users = data.get_users()
-user_favorites = data.get_user_fav()
-user_time_messages = data.get_user_time()
-group_data = data.get_raw_data()
-name = data.get_name()
+# user_favorites = data.get_user_fav()
+#user_time_messages = data.get_user_time()
+# group_data = data.get_raw_data()
+# name = data.get_name()
 sys.stdout.reconfigure(encoding='utf-8')
 new_user_times = {}
 # 
 last_week = (datetime(2022,8,8) - timedelta(weeks = 1)).timestamp()
 timezone_adjust = 14400 # 4 hours from gmt
 
-for user_id in user_time_messages:
-    new_user_times[users[user_id]] = user_time_messages[user_id]
+# for user_id in user_time_messages:
+#     new_user_times[users[user_id]] = user_time_messages[user_id]
 
 user_weekdays = {}
 user_hours = {}
@@ -33,7 +67,13 @@ user_minutes = {}
 user_days = {}
 time_to_weekday = {0: "monday", 1: "tuesday", 2: "Wednesday",
                    3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
-for person in user_time_messages:
+my_colors = ['steelblue', 'seagreen','darkviolet','lime','rosybrown','gold','dimgrey','aqua','violet','red','silver','orange','hotpink']
+custom_cycler = cycler(color=my_colors)
+fig, ax = plt.subplots()
+ax.set_prop_cycle(custom_cycler)                   
+ax.set_title('Messages per Weekday by person in 2019')
+year_count = 0
+for person in users.keys():
     user_weekdays[users[person]] = {}
     user_hours[users[person]] = {}
     user_minutes[users[person]] = {}
@@ -45,12 +85,19 @@ for person in user_time_messages:
     days = user_days[users[person]]
     for i in range (366):  #initialize all buckets
         days[i + 1] = 0
-
+    if person not in user_time_messages.keys():
+        continue
     for mtime in user_time_messages[person]:
     # if float(mtime) > last_week:
         tempTime = time.gmtime(int(mtime - timezone_adjust))
         weekday = tempTime.tm_wday
         hour = tempTime.tm_hour
+        # print(tempTime.tm_year)
+        if tempTime.tm_year not in (2019,1000):
+            # print('test')
+            continue
+        else:
+            year_count = year_count + 1
         day = tempTime.tm_yday
         # print(mtime)
         # print(tempTime.tm_hour)
@@ -69,7 +116,7 @@ for person in user_time_messages:
         minutes[minute] = minutes[minute] + 1
         days[day] = days[day] + 1
         weekdays[time_to_weekday[weekday]] = weekdays[time_to_weekday[weekday]] + 1
-    
+print(year_count)
 #last_week_user_counts = {}
 # for event in group_data:
 #     if float(event['created_at']) > last_week:
@@ -100,23 +147,32 @@ for person in user_time_messages:
 #             minutes[minute] = minutes[minute] + 1
 #             weekdays[time_to_weekday[weekday]] = weekdays[time_to_weekday[weekday]] + 1
 #print([(users[x], last_week_user_counts[x]) for x in last_week_user_counts.keys()])
+# fig = plt.figure()
+# ax = fig.add_axes([0.1, 0.1, 0.8, 0.8])# main axes
+
+# ax.set_xlabel('Months')
+# ax.set_title('messages per month')
+# ax.set_xticks([0,31,59,90,121,152,182,212,243,273,304,334])
+# ax.set_xticklabels(['January','February','March','April','May','June','July','August','September','October','November','December'])
+
 
 for uh in user_days:
-    orderhours = sorted(user_days[uh].items())
+    orderhours = sorted(user_weekdays[uh].items(), key = lambda a  : list(time_to_weekday.keys())[list(time_to_weekday.values()).index(a[0])])
     if len(orderhours) != 0:
         x, y = zip(*orderhours)
         sory = sorted(y)
-        orderhours.sort(key = lambda a: a[1])
+        # orderhours.sort(key = lambda a: a[1])
         # print(orderhours)
-        plt.plot(x, y, label=uh)
+        ax.plot(x, y, label=uh)
+        
         # for i, txt in enumerate(x):
         #     plt.annotate((x[i], y[i]), (x[i], y[i]))
         
 # orderhours = sorted(user_hours['Shawn Verma'].items())
 # x, y = zip(*orderhours)
 # plt.plot(x, y, c='mediumorchid')
+# plt.title('Messages per Weekday by person in 2019')
+
 plt.legend()
 plt.show()
-
-
 print()
